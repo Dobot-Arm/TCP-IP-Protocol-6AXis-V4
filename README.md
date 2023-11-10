@@ -1,4 +1,4 @@
-# English version of the README -> please [click here](./README-EN.md)
+# English version of the README -> please [click here](./Dobot TCP_IP Remote Control Interface Guide V4.4.0_20230804_en.pdf)
 
 ![](README.assets/pic1.png)
 
